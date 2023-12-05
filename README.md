@@ -32,6 +32,7 @@ Done with [hyperfine](https://github.com/sharkdp/hyperfine) (see file `benchmark
 | Command | Mean [ms] | Min [ms] | Max [ms] | Relative |
 |:---|---:|---:|---:|---:|
 | `benchmark\adv1.exe` | 7.8 ± 0.7 | 6.6 | 10.9 | 1.00 |
+| `benchmark\adv2.exe` | 8.4 ± 7.6 | 1.1 | 27.0 | 1.00 |
 ## Building in SublimeText3 (Win)
 
 * Install Mingw
